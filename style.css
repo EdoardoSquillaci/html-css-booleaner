@@ -25,6 +25,20 @@ margin-top: 25px;
 margin-bottom: 0;
 }
 
+.Info-principali span{
+    color: gray;
+}
 
+.Info-principali div{
+    color: gray;
+}
+
+.immagini{
+    margin-top: 20px;
+}
+
+.immagini div{
+    color: black;
+}
 
 
