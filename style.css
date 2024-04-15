@@ -53,3 +53,20 @@ margin-bottom: 0;
     margin-bottom: 30px;
 }
 
+.Tabella{
+    width: 1400px;
+   margin-left: 80px;
+}
+
+.Intestazione-Tabella th{
+    color: white;
+    background-color: aqua;
+    text-align: left;
+    
+}
+
+#Gray td{
+    background-color: rgb(209, 209, 209);
+}
+
+
