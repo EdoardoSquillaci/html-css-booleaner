@@ -21,7 +21,8 @@ body{
 }
 
 .Info-principali h1{
-margin-top: 25px;
+ font-family: Arial, Helvetica, sans-serif;
+ margin-top: 25px;
 margin-bottom: 0;
 }
 
@@ -58,21 +59,20 @@ margin-bottom: 0;
    margin-left: 80px;
 }
 
+
+
 .Intestazione-Tabella th{
+    background-color: blue;
     color: white;
-    background-color: rgb(5, 48, 142);
     text-align: left;
-    
-    
-    
 }
 
-#Gray td{
+.Gray td{
     background-color: rgb(209, 209, 209);
 }
 
 footer div{
-   margin-top: 20px;
+    margin-top: 20px;
     text-align: center;
     color: white;
     background-color: rgb(2, 2, 48);
