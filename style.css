@@ -54,7 +54,7 @@ margin-bottom: 0;
 }
 
 .Tabella{
-    width: 1400px;
+   margin-right: 80px;
    margin-left: 80px;
 }
 
@@ -63,10 +63,18 @@ margin-bottom: 0;
     background-color: aqua;
     text-align: left;
     
+    
 }
 
 #Gray td{
     background-color: rgb(209, 209, 209);
 }
 
-
+footer div{
+   margin-top: 20px;
+    text-align: center;
+    color: white;
+    background-color: rgb(2, 2, 48);
+    height: 40px;
+    line-height: 40px;
+}
